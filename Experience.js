@@ -57,7 +57,7 @@ export default function Experience()
                         position={ [ 0, 1.56, - 1.4 ] }
                         rotation-x={ - 0.256 }
                     >
-                        <iframe src="https://eyes.nasa.gov/apps/solar-system/#/home" />
+                        <iframe src="https://www.world-lolo.com/images/uploads/image.num1342194983.of.world-lolo.com.jpg" />
                     </Html>
                 </primitive>
 
